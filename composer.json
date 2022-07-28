@@ -1,0 +1,17 @@
+{
+    "name": "bernadev/laravel-reports",
+    "description": "Scaffolding to generate data reports in a unified way",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro Bernabe",
+            "email": "alex14xp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4",
+        "laravel/framework": ">=8.0.0"
+    }
+}
